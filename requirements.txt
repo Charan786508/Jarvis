@@ -1,0 +1,9 @@
+speechrecognition
+pyttsx3
+pyaudio
+requests
+playsound
+wikipedia
+numpy
+opencv-python
+Flask
